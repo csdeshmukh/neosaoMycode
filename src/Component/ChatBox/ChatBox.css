@@ -1,0 +1,18 @@
+.forAHoleChatBox {
+  position: relative;
+  display: flex;
+  bottom: 0;
+  right: 240px;
+  /* Adjust the right value as needed */
+  display: flex;
+  flex-direction: row-reverse; /* Display from right to left */
+  background-color: #ece2e2;
+  /* justify-content: flex-start; */
+  border: 1px solid black;
+  /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); */
+  border-radius: 4px;
+  z-index: 2;
+  width: 200px;
+  margin: 10px;
+  height: 300px;
+}

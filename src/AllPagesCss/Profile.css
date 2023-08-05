@@ -1,0 +1,11 @@
+.Blockofprofile {
+  border: 1px solid rgb(24, 238, 5);
+  align-items: center;
+  background-color: antiquewhite;
+  justify-content: center;
+  width: 70%;
+  height: 70vh;
+  margin: 4px;
+  border-radius: 20px;
+  z-index: 0;
+}
